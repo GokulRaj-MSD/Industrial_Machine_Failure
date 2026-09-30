@@ -1,0 +1,13 @@
+Problem 21: Industrial Machine Failure Prediction
+Actual student timeline: 7 days
+Source problem statement: Track1_50_Capstone_Problems_25_Pages.pdf
+Dataset: UCI AI4I 2020 Predictive Maintenance Dataset
+
+7-DAY PLAN
+Day 1: Research, dataset download, understand columns
+Day 2: Data cleaning, missing values, duplicates, class balance
+Day 3: EDA and visualizations
+Day 4: Logistic Regression, KNN, Decision Tree
+Day 5: Accuracy, Precision, Recall, F1, ROC-AUC, confusion matrix
+Day 6: Compare/improve model, feature relevance, error analysis
+Day 7: Streamlit, testing, report, PPT, viva preparation
